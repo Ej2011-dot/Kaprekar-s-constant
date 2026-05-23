@@ -15,14 +15,14 @@ An interactive Android app that demonstrates the mathematical mystery of **Kapre
   Step 5: `8820 - 0288 = 8532`
   Step 6: `8532 - 2358 = 6174`  *(Target Reached)*
 
-## 🧠 How the Routine Works
+##  How the Routine Works
 The app automates this simple loop:
 1. Sorts your digits from highest to lowest (makes the **largest** number).
 2. Sorts your digits from lowest to highest (makes the **smallest** number).
 3. **Subtracts** the small number from the large number.
 4. Repeats until the result hits and gets trapped on **6174**.
 
-## 🛠️ Setup
+##  Setup
 1. Clone this repository.
 2. Open the folder in **Android Studio**.
 3. Press **Run** to launch on your device or emulator.
